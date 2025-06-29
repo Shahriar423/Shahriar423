@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Shahriar</h1>
-<h3 align="center">💻 SQA Engineer </h3>
+<h3 align="center">💻 Passionate about manual & automated testing | API testing | SDLC | Test documentation</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="160" alt="Software Testing QA"/>
